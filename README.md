@@ -23,7 +23,8 @@
 An AI-powered attendance system that uses face recognition to automatically mark attendance, generate reports, and send email notifications.
 
 📫 Connect with me
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: www.linkedin.com/in/
+thoutam-thirumala-612132413
 - Email: thoutamthirumala07@gmail.com
 
 ⭐ Always learning and building innovative solutions.
