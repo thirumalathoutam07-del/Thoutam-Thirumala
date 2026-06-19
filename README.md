@@ -24,6 +24,6 @@ An AI-powered attendance system that uses face recognition to automatically mark
 
 📫 Connect with me
 - LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
+- Email: thoutamthirumala07@gmail.com
 
 ⭐ Always learning and building innovative solutions.
